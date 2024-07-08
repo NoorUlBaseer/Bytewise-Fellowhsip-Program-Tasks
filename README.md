@@ -26,7 +26,7 @@ The Bytewise Fellowship Program is a comprehensive learning journey focusing on 
 
 ### Month 1
 #### Week 1
-- [Deployed Project on Vercel](https://portfolio-website-project-eight.vercel.app/){:target="_blank"}
+- [Deployed Project on Vercel](https://portfolio-website-project-eight.vercel.app/)
 
 ## Contributing
 
