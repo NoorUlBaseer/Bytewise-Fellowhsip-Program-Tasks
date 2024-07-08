@@ -15,16 +15,18 @@ The Bytewise Fellowship Program is a comprehensive learning journey focusing on 
 ## Month 1
 
 ### Week 1
-- **Task 1:** CSS Part 1
-- **Task 2:** CSS and Bootstrap
-- **Task 3:** Bootstrap 2
-- **Task 4:** Week 01 Project
+- **Task 1:** [CSS Part 1](https://github.com/NoorUlBaseer/Bytewise-Fellowhsip-Program-Tasks/tree/main/Month%2001/Week%2001/CSS%20Part%201)
+- **Task 2:** [CSS and Bootstrap](https://github.com/NoorUlBaseer/Bytewise-Fellowhsip-Program-Tasks/tree/main/Month%2001/Week%2001/CSS%20and%20Bootstrap)
+    - [Data Table](https://github.com/NoorUlBaseer/Bytewise-Fellowhsip-Program-Tasks/tree/main/Month%2001/Week%2001/CSS%20and%20Bootstrap/Data%20Table)
+    - [Form](https://github.com/NoorUlBaseer/Bytewise-Fellowhsip-Program-Tasks/tree/main/Month%2001/Week%2001/CSS%20and%20Bootstrap/Form)
+- **Task 3:** [Bootstrap 2](https://github.com/NoorUlBaseer/Bytewise-Fellowhsip-Program-Tasks/tree/main/Month%2001/Week%2001/Bootstrap%202)
+- **Task 4:** [Week 01 Project](https://github.com/NoorUlBaseer/Bytewise-Fellowhsip-Program-Tasks/tree/main/Month%2001/Week%2001/Project)
 
 ## Project Links
 
 ### Month 1
 #### Week 1
-- [Deployed Project on Vercel](https://portfolio-website-project-eight.vercel.app/)
+- [Deployed Project on Vercel](https://portfolio-website-project-eight.vercel.app/){:target="_blank"}
 
 ## Contributing
 
