@@ -6,6 +6,7 @@ Welcome to my repository for the Bytewise Fellowship Program! This repository co
 - [Overview](#overview)
 - [Month 1](#month-1)
     - [Week 1](#week-1)
+    - [Week 2](#week-2)
 - [Project Links](#project-links)
 
 ## Overview
@@ -22,11 +23,17 @@ The Bytewise Fellowship Program is a comprehensive learning journey focusing on 
 - **Task 3:** [Bootstrap 2](https://github.com/NoorUlBaseer/Bytewise-Fellowhsip-Program-Tasks/tree/main/Month%2001/Week%2001/Bootstrap%202)
 - **Task 4:** [Week 01 Project](https://github.com/NoorUlBaseer/Bytewise-Fellowhsip-Program-Tasks/tree/main/Month%2001/Week%2001/Project)
 
+### Week 2
+- **Task 1:** [Week 02 Project](https://github.com/NoorUlBaseer/Bytewise-Fellowhsip-Program-Tasks/tree/main/Month%2001/Week%2002/Project)
+
 ## Project Links
 
 ### Month 1
 #### Week 1
-- [Deployed Project on Vercel](https://portfolio-website-project-eight.vercel.app/)
+- Deployed Project on Vercel: https://portfolio-website-project-eight.vercel.app/
+
+#### Week 2
+- Deployed Project on Vercel: https://to-do-list-project-pi-ecru.vercel.app/
 
 ## Contributing
 
